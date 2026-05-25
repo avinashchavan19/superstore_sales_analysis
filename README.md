@@ -140,6 +140,3 @@ This project demonstrates practical Excel skills for data analysis, dashboard cr
 # 👨‍💻 Author
 
 Avinash Chavan
-# 👨‍💻 Author
-
-Avinash Chavan
