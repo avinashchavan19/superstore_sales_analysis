@@ -6,18 +6,47 @@ An end-to-end Excel Data Analytics project focused on analyzing Superstore sales
 
 # 🚀 Project Overview
 
-This project was built using Microsoft Excel to perform complete sales analysis on Superstore data.  
-The project includes:
+This project was built using Microsoft Excel to perform comprehensive sales and profit analysis on Superstore transactional data.  
+The project demonstrates data cleaning, statistical analysis, business intelligence reporting, and dashboard development skills.
 
-- Data Cleaning & Preparation
-- Outlier Detection
-- Descriptive Statistical Analysis
-- Product Performance Analysis
-- Regional Sales Analysis
-- Business Insights Generation
-- Interactive Dashboard Visualization
+The dashboard provides meaningful business insights related to:
+- Sales Performance
+- Profitability
+- Product Trends
+- Regional Analysis
+- Customer Segmentation
 
-The dashboard helps understand sales performance, profit trends, customer behavior, and regional business growth.
+---
+
+# 📦 Dataset Information
+
+The dataset contains retail superstore transaction records used to analyze sales performance, profitability, customer segments, product trends, and regional business insights.
+
+### Dataset Size
+- 📄 Total Rows: 5,474
+- 📊 Total Columns: 34
+- 🗂️ File Format: Excel / CSV
+
+### Key Columns
+- Order_ID
+- Order_Date
+- Ship_Date
+- Delivery_Time
+- Order_Priority
+- Ship_Mode
+- Customer_Name
+- Province
+- Region
+- Customer_Segment
+- Product_Category
+- Product_Sub-Category
+- Unit_Price
+- Order_Quantity
+- Shipping_Cost
+- Discount_Percentage
+- Sales
+- Profit
+- Profit_Percentage
 
 ---
 
@@ -27,8 +56,8 @@ The dashboard helps understand sales performance, profit trends, customer behavi
 - Pivot Tables
 - Pivot Charts
 - Conditional Formatting
-- Data Cleaning Techniques
 - Statistical Analysis
+- Data Cleaning Techniques
 - Interactive Dashboard Design
 
 ---
@@ -37,34 +66,34 @@ The dashboard helps understand sales performance, profit trends, customer behavi
 
 ## 🔹 Data Cleaning
 - Removed inconsistencies
-- Handled missing values
 - Structured raw data for analysis
+- Prepared dataset for dashboard reporting
 
 ## 🔹 Outlier Detection
-- Identified abnormal sales/profit values
-- Improved data reliability
+- Identified abnormal sales and profit values
+- Improved analytical accuracy
 
 ## 🔹 Descriptive Statistics
 - Mean
 - Median
-- Minimum & Maximum Values
 - Standard Deviation
+- Min & Max Values
 - Distribution Analysis
 
 ## 🔹 Product-Based Analysis
 - Top Performing Products
-- Category-wise Sales
+- Category-wise Sales Trends
 - Profit Contribution Analysis
 
 ## 🔹 Regional Analysis
-- Region-wise Sales Performance
-- Profit Comparison Across Regions
-- Business Growth Trends
+- Region-wise Sales Comparison
+- Profit Trends Across Provinces
+- Regional Business Performance
 
-## 🔹 Business Insights
-- Sales Trends
+## 🔹 Business Analysis
+- KPI Tracking
 - Profitability Insights
-- Performance Optimization Opportunities
+- Business Trend Identification
 
 ---
 
@@ -76,8 +105,9 @@ The interactive dashboard provides:
 ✅ Profit Analysis  
 ✅ Regional Insights  
 ✅ Product Category Analysis  
-✅ KPI Tracking  
-✅ Business Trend Visualization  
+✅ KPI Monitoring  
+✅ Trend Visualization  
+✅ Interactive Filtering & Analysis  
 
 ---
 
@@ -88,6 +118,7 @@ superstore_sales_analysis/
 │
 ├── README.md
 ├── Superstore_Sales_Analysis_Dashboard.xlsx
+├── superstore_dataset.csv
 └── screenshots/
     ├── dashboard.png
     ├── descriptive_stats.png
@@ -124,16 +155,23 @@ superstore_sales_analysis/
 # 🎯 Project Objectives
 
 - Analyze business sales performance
-- Discover profit-driving regions/products
-- Create interactive business dashboards
-- Generate meaningful business insights
-- Practice real-world Excel analytics workflow
+- Identify profitable products and regions
+- Generate business insights from transactional data
+- Build interactive Excel dashboards
+- Practice real-world data analytics workflow
 
 ---
 
 # 📌 Conclusion
 
-This project demonstrates practical Excel skills for data analysis, dashboard creation, business intelligence, and insight generation using real-world sales data.
+This project demonstrates practical Excel skills for:
+- Data Cleaning
+- Business Intelligence
+- Statistical Analysis
+- Dashboard Development
+- Insight Generation
+
+The project reflects a complete end-to-end Excel analytics workflow commonly used in real-world business environments.
 
 ---
 
