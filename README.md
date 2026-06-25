@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis Dashboard
+# 📊 Superstore Sales Analysis
 
 An end-to-end Excel Data Analytics project focused on analyzing Superstore sales performance, identifying business trends, and generating actionable insights through interactive dashboards and data-driven analysis.
 
